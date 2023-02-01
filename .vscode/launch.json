@@ -1,0 +1,14 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open user_home.html",
+            "file": "c:\\Users\\ronkj\\OneDrive\\Desktop\\Coding-Dojo\\Python-FIle\\flask_mysql\\recipes\\flask_app\\templates\\user\\user_home.html"
+        }
+    ]
+}
